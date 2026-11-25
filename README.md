@@ -67,7 +67,7 @@ The analysis uses Microsoft Excel for data preparation, descriptive analysis and
 - Average OPM remained relatively stable, increasing from 16.67% to 17.02%.
 - Average NPM increased slightly from 11.89% to 12.07%.
   
-![Company-wise Dashboard](./Screenshot%20(359).png)
+![Overall Financial Performance](./Screenshot%20(359).png)
 ### Category-wise Findings
 
 - Automobile recorded the highest increase in average Sales between the Pre and Post periods at 31.71%.
@@ -82,6 +82,9 @@ The analysis uses Microsoft Excel for data preparation, descriptive analysis and
 - GODFRYPHLP recorded the highest average Sales Growth at 63.50%.
 - ITC recorded the highest average OPM at 33.46%.
 - TVSMOTOR recorded the highest average NPM at 51.66%.
+
+![Company-wise Dashboard](./Screenshot%20(372).png)
+![Company-wise Dashboard](./Screenshot%20(373).png)
 
 ## 8. Regression Analysis
 
