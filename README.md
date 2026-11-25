@@ -66,7 +66,8 @@ The analysis uses Microsoft Excel for data preparation, descriptive analysis and
 - Average Sales Growth changed from 10.82% in the Pre period to -1.30% during Implementation and 7.59% in the Post period.
 - Average OPM remained relatively stable, increasing from 16.67% to 17.02%.
 - Average NPM increased slightly from 11.89% to 12.07%.
-
+  
+![Company-wise Dashboard](./Screenshot%20(359).png)
 ### Category-wise Findings
 
 - Automobile recorded the highest increase in average Sales between the Pre and Post periods at 31.71%.
