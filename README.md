@@ -74,7 +74,8 @@ The analysis uses Microsoft Excel for data preparation, descriptive analysis and
 - Consumer Durables recorded a 12.55% increase.
 - FMCG & Staples recorded a 9.69% increase.
 - Sin & De-merit Goods recorded a 1.93% increase.
-
+  
+![Category-wise Dashboard](./Screenshot%20(369).png)
 ### Company-wise Findings
 
 - M&M recorded the highest average Sales at ₹47,362.25.
